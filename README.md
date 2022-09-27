@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SajanBaisil
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sajan Baisil
+
 
 <!---
 SajanBaisil/SajanBaisil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
