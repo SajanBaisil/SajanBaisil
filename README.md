@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sajan Baisil
+👋 Hi, I’m Sajan Baisil
 
 
 <!---
