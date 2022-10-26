@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm SAJAN BAISIL</h1>
+<img  align="left"  alt="Coding" width="60" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif">
+<h1 align="left"> Hi, I'm SAJAN BAISIL</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajanbaisil&label=Profile%20views&color=0e75b6&style=flat" alt="sajanbaisil" /> </p>
 <h1 align="left">About me</h1>
 - 🌱 I’m currently learning **Mobile Devolopment Using Flutter**
