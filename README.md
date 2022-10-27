@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sajan-baisil-18759a210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajan-baisil-18759a210" height="30" width="40" /></a>
-<a href="[https://fb.com/Sajan-Baisil](https://m.facebook.com/profile.php?eav=AfaaHpqTbUSpxzyAa99oWgX2D0o_jceA8Zvonuk2PuWImmmzKL4Ce8zXHvUrQwEWJ2M&paipv=0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sajan-Baisil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajan-baisil-18759a210" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajan-baisil-18759a210" height="30" width="40" /></a>
+
 <a href="https://instagram.com/sajanbaisil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajanbaisil" height="30" width="40" /></a>
 </p>
 
