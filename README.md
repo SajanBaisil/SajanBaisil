@@ -39,5 +39,5 @@ I'm a creative and dedicated **Flutter Developer** with **2 years of experience*
 
 ## ☕ Support My Work
 <p align="center">
-  <img src="/path/to/bmc_qr.png" alt="Buy Me A Coffee QR Code">
+  <img src="/Users/anagha/Downloads" alt="Buy Me A Coffee QR Code">
 </p>
