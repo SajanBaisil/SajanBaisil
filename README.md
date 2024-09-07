@@ -7,7 +7,7 @@
 ## 🌟 About Me
 I'm a passionate developer currently diving deep into **Mobile Development with Flutter**! I love exploring new technologies and building cool stuff.
 
-- 🌱 I’m currently learning **Flutter** for mobile app development.
+- 🌱 I've been mastering **Flutter** for the past 2 years and continue to expand my skills in mobile development.
 - 📫 How to reach me: **[sajanbaisilfrancis@gmail.com](mailto:sajanbaisilfrancis@gmail.com)**
 
 ## 🚀 Connect with me:
