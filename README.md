@@ -1,36 +1,43 @@
-<img  align="left"  alt="Coding" width="60" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif">
-<h1 align="left"> Hi, I'm SAJAN BAISIL</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajanbaisil&label=Profile%20views&color=0e75b6&style=flat" alt="sajanbaisil" /> </p>
-<h1 align="left">About me</h1>
-- 🌱 I’m currently learning **Mobile Devolopment Using Flutter**
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif">
 
-- 📫 How to reach me **sajanbaisilfrancis@gmail.com**
+# Hi, I'm SAJAN BAISIL! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sajan-baisil-18759a210" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajan-baisil-18759a210" height="30" width="40" /></a>
+![](https://komarev.com/ghpvc/?username=sajanbaisil&label=Profile%20views&color=0e75b6&style=flat-square)
 
-<a href="https://instagram.com/sajanbaisil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajanbaisil" height="30" width="40" /></a>
+## 🌟 About Me
+I'm a passionate developer currently diving deep into **Mobile Development with Flutter**! I love exploring new technologies and building cool stuff.
+
+- 🌱 I’m currently learning **Flutter** for mobile app development.
+- 📫 How to reach me: **[sajanbaisilfrancis@gmail.com](mailto:sajanbaisilfrancis@gmail.com)**
+
+## 🚀 Connect with me:
+<p>
+<a href="https://linkedin.com/in/sajan-baisil-18759a210" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/sajanbaisil" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Languages and Tools:
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</p>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+## 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajanbaisil&show_icons=true&locale=en&layout=compact" alt="Most Used Languages"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sajanbaisil&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajanbaisil" alt="GitHub Streak"/>
+</p>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajanbaisil&show_icons=true&locale=en&layout=compact" alt="sajanbaisil" /></p>
-
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sajanbaisil&show_icons=true&locale=en" alt="sajanbaisil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajanbaisil&" alt="sajanbaisil" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Sajan Baisil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sajan Baisil" /></a></p><br><br>
-
-
-
-<!---
-SajanBaisil/SajanBaisil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Support
+<p align="left">
+<a href="https://www.buymeacoffee.com/SajanBaisil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
+</p>
