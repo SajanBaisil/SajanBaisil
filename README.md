@@ -1,10 +1,13 @@
-<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r1fq40a5v2y4x8iyq69i5lfztg5thx6mcrvx8gpg&rid=giphy.gif&ct=g">
+
+<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r1fq40a5v2y4x8iyq69i5lfztg5thx6mcrvx8gpg&rid=giphy.gif&ct=g" style="float:right; margin:0 10px 0 0;"/>
 
 # Hello, I'm SAJAN BAISIL! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajanbaisil&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views">
 </p>
+
+<div style="background: url('https://source.unsplash.com/1600x900/?technology'); background-size: cover; filter: brightness(50%);">
 
 ## 🌐 About Me
 I'm a creative and dedicated **Flutter Developer** with **2 years of experience**. Passionate about crafting seamless mobile experiences and innovative solutions.
@@ -43,3 +46,5 @@ I'm a creative and dedicated **Flutter Developer** with **2 years of experience*
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
   </a>
 </p>
+
+</div>
